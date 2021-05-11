@@ -259,3 +259,11 @@ header {
   background-color: rgb(255, 255, 255);
   color: whitesmoke;
 }
+
+.item:hover {
+  opacity: 0.5;
+}
+
+.more:hover {
+  opacity: 0.5;
+}
